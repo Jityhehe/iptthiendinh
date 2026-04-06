@@ -8,20 +8,24 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: # Thêm dòng này để chắc chắn có quyền ghi
+      contents: write
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Cập nhật lên v4
+
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Cập nhật lên v5
         with:
           python-version: '3.x'
+
       - name: Install requests
         run: pip install requests
+
       - name: Run bot
         run: python bot.py
+
       - name: Commit and push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -30,5 +34,5 @@ jobs:
             echo "No changes"
           else
             git commit -m "Update ThienDinh: $(date)"
-            git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+            git push
           fi
