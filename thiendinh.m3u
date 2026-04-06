@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://tse1.mm.bing.net/th/id/OIP.E7Ql-lWZidTXEQf-DNotOwHaHa?pid=Api&P=0&h=220' group-title='ThienDinhTV', 23:30 [Championship] Swansea vs Middlesbrough (BLV Thần Thông)
-https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg' group-title='ThienDinhTV', 01:45 [Serie A] Napoli vs AC Milan (BLV Ngọc Hoàng(A Cháo))
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://www.pngmart.com/files/22/Girona-FC-PNG-HD.png' group-title='ThienDinhTV', 02:00 [La Liga] Girona vs Villarreal (BLV Táo Mèo)
