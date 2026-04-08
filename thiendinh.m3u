@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2932.png' group-title='ThienDinhTV', 01:00 [Pro League] Al-Hilal Saudi FC vs Al Kholood (BLV Táo Chè)
-https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg' group-title='ThienDinhTV', 02:00 [UEFA Champions League] Barcelona vs Atletico Madrid (BLV Nam Tào(A Bí))
 https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg' group-title='ThienDinhTV', 02:00 [UEFA Champions League] Barcelona vs Atletico Madrid (BLV Ngọc Hoàng(A Cháo))
