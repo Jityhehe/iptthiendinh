@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/d/d1/Viettel_FC_2021.svg' group-title='ThienDinhTV', 19:15 [V.League 1] Viettel vs Thanh Hóa (BLV Ngọc Hoàng(A Cháo))
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/10107.png' group-title='ThienDinhTV', 20:00 [Super League] Kelantan United vs Kuala Lumpur FA (BLV Táo Mèo)
-https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1168.png' group-title='ThienDinhTV', 22:00 [Veikkausliiga] Turku PS vs Lahti (BLV Táo Thiên Vương)
 https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karlsruher_SC_Logo_2.svg/1200px-Karlsruher_SC_Logo_2.svg.png' group-title='ThienDinhTV', 23:30 [2. Bundesliga] Karlsruher SC vs Arminia Bielefeld (BLV Táo Mèo)
-https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karlsruher_SC_Logo_2.svg/1200px-Karlsruher_SC_Logo_2.svg.png' group-title='ThienDinhTV', 23:30 [2. Bundesliga] Karlsruher SC vs Arminia Bielefeld (BLV Táo Tàu)
+https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/c/c5/Logo_Paris_FC.jpg' group-title='ThienDinhTV', 00:00 [Ligue 1] Paris FC vs Monaco (BLV Táo Chè)
 https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/960px-AS_Roma_logo_%282017%29.svg.png' group-title='ThienDinhTV', 01:45 [Serie A] AS Roma vs Pisa (BLV Táo Tàu)
@@ -17,3 +13,39 @@ https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Moz
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png' group-title='ThienDinhTV', 02:00 [La Liga] Real Madrid vs Girona (BLV Ngọc Hoàng(A Cháo))
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/19086.png' group-title='ThienDinhTV', 16:00 [AFC U20 Asian Cup - Women] Japan U20 W vs Vietnam U20 W (BLV Táo Chè)
+https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3674.png' group-title='ThienDinhTV', 18:00 [V.League 1] Nam Dinh vs Hoang Anh Gia Lai (BLV Táo Tàu)
+https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3678.png' group-title='ThienDinhTV', 18:00 [V.League 1] Song Lam Nghe An vs Da Nang (BLV Táo Thiên Vương)
+https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg' group-title='ThienDinhTV', 18:30 [Premier League] Arsenal vs Bournemouth (BLV Ngọc Hoàng(A Cháo))
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqksyaudrnPerqAK70Wf34Xo-WN_BSmSsQg&s' group-title='ThienDinhTV', 19:00 [La Liga] Real Sociedad vs Alaves (BLV Táo Mèo)
+https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/a/a8/Cagliari_Calcio_1920.png' group-title='ThienDinhTV', 20:00 [Serie A] Cagliari vs Cremonese (BLV Táo Thiên Vương)
+https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png' group-title='ThienDinhTV', 20:30 [Bundesliga] Borussia Dortmund vs Bayer Leverkusen (BLV Thần Thông)
+https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/d/d6/VEREINFACHTES_LOGO_-_RB_Leipzig.svg' group-title='ThienDinhTV', 20:30 [Bundesliga] RB Leipzig vs Borussia Mönchengladbach (BLV Táo Tàu)
+https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/thumb/2/2a/Brentford_FC_crest.svg/1200px-Brentford_FC_crest.svg.png' group-title='ThienDinhTV', 21:00 [Premier League] Brentford vs Everton (BLV Táo Mèo)
+https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/1a/Burnley_FC.png' group-title='ThienDinhTV', 21:00 [Premier League] Burnley vs Brighton (BLV Ngọc Hoàng(A Cháo))
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a7/Elche_CF_logo.svg' group-title='ThienDinhTV', 21:15 [La Liga] Elche vs Valencia (BLV Táo Chè)
+https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/186.png' group-title='ThienDinhTV', 23:30 [Bundesliga] FC St. Pauli vs Bayern München (BLV Táo Mèo)
+https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/nGfV05dipbAc7zzojivKew_96x96.png' group-title='ThienDinhTV', 23:30 [Premier League] Liverpool vs Fulham (BLV Ngọc Hoàng(A Cháo))
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/9/91/FC_Barcelona_logo.svg' group-title='ThienDinhTV', 23:30 [La Liga] Barcelona vs Espanyol (BLV Thần Thông)
+https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2977.png' group-title='ThienDinhTV', 01:00 [Pro League] Al Okhdood vs Al-Nassr (BLV Táo Mèo)
+https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/59/AtalantaBC.png' group-title='ThienDinhTV', 01:45 [Serie A] Atalanta vs Juventus (BLV Táo Tàu)
+https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/a/ae/Sevilla_FC_logo.png' group-title='ThienDinhTV', 02:00 [La Liga] Sevilla vs Atletico Madrid (BLV Táo Chè)
+https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSudffqD2g0jjQWUuaVhdEmUDtpntLzckzVLg&s' group-title='ThienDinhTV', 06:30 [Major League Soccer] Inter Miami vs New York Red Bulls (BLV Thần Thông)
+https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
