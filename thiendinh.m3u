@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karlsruher_SC_Logo_2.svg/1200px-Karlsruher_SC_Logo_2.svg.png' group-title='ThienDinhTV', 23:30 [2. Bundesliga] Karlsruher SC vs Arminia Bielefeld (BLV Táo Tàu)
-https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/960px-AS_Roma_logo_%282017%29.svg.png' group-title='ThienDinhTV', 01:45 [Serie A] AS Roma vs Pisa (BLV Táo Tàu)
 https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1280px-West_Ham_United_FC_logo.svg.png' group-title='ThienDinhTV', 02:00 [Premier League] West Ham vs Wolves (BLV Thần Thông)
