@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/19086.png' group-title='ThienDinhTV', 16:00 [AFC U20 Asian Cup - Women] Japan U20 W vs Vietnam U20 W (BLV Táo Chè)
-https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3674.png' group-title='ThienDinhTV', 18:00 [V.League 1] Nam Dinh vs Hoang Anh Gia Lai (BLV Táo Tàu)
 https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3678.png' group-title='ThienDinhTV', 18:00 [V.League 1] Song Lam Nghe An vs Da Nang (BLV Táo Thiên Vương)
