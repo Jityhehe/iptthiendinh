@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a3/Bangkok_United%2C_2018.png' group-title='ThienDinhTV', 19:15 [AFC Champions League Two] Bangkok United vs Gamba Osaka (BLV Thần Thông)
-https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/23209.png' group-title='ThienDinhTV', 20:00 [AFC U20 Asian Cup - Women] China PR U20 W vs Japan U20 W (BLV Táo Mèo)
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/851.png' group-title='ThienDinhTV', 22:00 [First League] Cherno More Varna vs CSKA 1948 (BLV Táo Tàu)
