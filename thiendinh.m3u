@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg' group-title='ThienDinhTV', 15:30 [U17 Đông Nam Á]  U17 Timor-Leste vs U17 Việt Nam (BLV Táo Chè)
-https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a3/Manila_Digger_F.C.png' group-title='ThienDinhTV', 19:00 [AFC Challenge League] Manila Digger vs Svay Rieng (BLV Táo Thiên Vương)
-https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a3/Manila_Digger_F.C.png' group-title='ThienDinhTV', 19:00 [AFC Challenge League] Manila Digger vs Svay Rieng (BLV Táo Tàu)
+https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a9/PFCSeptemvriSofia.png' group-title='ThienDinhTV', 21:00 [First League] Septemvri Sofia vs Spartak Varna (BLV Táo Tàu)
 https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/7/73/FC_Ararat-Armenia_logo.svg' group-title='ThienDinhTV', 21:30 [Cup] Ararat-Armenia vs FC Noah (BLV Táo Mèo)
