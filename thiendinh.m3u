@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/b/b4/Logo_H%C3%A0_N%E1%BB%99i_FC.png' group-title='ThienDinhTV', 19:15 [V.League 1] Ha Noi vs Binh Duong (BLV Thần Thông)
-https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2929.png' group-title='ThienDinhTV', 21:45 [AFC Champions League Elite] Al-Ahli Jeddah vs Johor Darul Takzim FC (BLV Táo Mèo)
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/0/04/Logo_of_FC_Torpedo-ZIL_%282003%29.gif' group-title='ThienDinhTV', 22:00 [First League] Torpedo Moskva vs KAMAZ (BLV Táo Thiên Vương)
