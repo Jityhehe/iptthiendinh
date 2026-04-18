@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/943.png' group-title='ThienDinhTV', 16:35 [A-League] Sydney vs Perth Glory (BLV Táo Thiên Vương)
 https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg' group-title='ThienDinhTV', 18:00 [V.League 1] Hồng Lĩnh Hà Tĩnh vs Hai Phong (BLV Táo Chè)
-https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/9167.png' group-title='ThienDinhTV', 18:00 [V.League 1] Phu Dong vs Pho Hien (BLV Táo Mèo)
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/thumb/2/2a/Brentford_FC_crest.svg/1280px-Brentford_FC_crest.svg.png' group-title='ThienDinhTV', 18:30 [Premier League] Brentford vs Fulham (BLV Ngọc Hoàng(A Cháo))
