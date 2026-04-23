@@ -5,10 +5,8 @@ https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/0/03/Yyjbb92.png' group-title='ThienDinhTV', 01:00 [La Liga] Rayo Vallecano vs Espanyol (BLV Thần Thông)
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2932.png' group-title='ThienDinhTV', 01:00 [King's Cup] Al-Hilal Saudi FC vs Al Kholood (BLV Táo Thiên Vương)
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/172.png' group-title='ThienDinhTV', 01:45 [DFB Pokal] VfB Stuttgart vs SC Freiburg (BLV Táo Thiên Vương)
 https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/172.png' group-title='ThienDinhTV', 01:45 [DFB Pokal] VfB Stuttgart vs SC Freiburg (BLV Táo Mèo)
-https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/718.png' group-title='ThienDinhTV', 02:30 [La Liga] Oviedo vs Villarreal (BLV Táo Tàu)
 https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3673.png' group-title='ThienDinhTV', 17:00 [V.League 1] Hoang Anh Gia Lai vs Hai Phong (BLV Táo Thiên Vương)
