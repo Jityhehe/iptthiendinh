@@ -17,3 +17,23 @@ https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/718.png' group-title='ThienDinhTV', 02:30 [La Liga] Oviedo vs Villarreal (BLV Thần Thông)
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3673.png' group-title='ThienDinhTV', 17:00 [V.League 1] Hoang Anh Gia Lai vs Hai Phong (BLV Táo Thiên Vương)
+https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/9167.png' group-title='ThienDinhTV', 18:00 [V.League 1] Phu Dong vs Ha Noi (BLV Táo Mèo)
+https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://imgts.sportpulseapiz.com/football/team/l5ergphovz1r8k0/image/small' group-title='ThienDinhTV', 19:30 [U17 Đông Nam Á] U17 Việt Nam vs U17 Malaysia (BLV Ngọc Hoàng(A Cháo))
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2931.png' group-title='ThienDinhTV', 22:45 [Pro League] Al-Fateh vs Al Khaleej Saihat (BLV Táo Tàu)
+https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/250px-Fortuna_D%C3%BCsseldorf.svg.png' group-title='ThienDinhTV', 23:30 [2. Bundesliga] Fortuna Düsseldorf vs Dynamo Dresden (BLV Thần Thông)
+https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/d/d6/VEREINFACHTES_LOGO_-_RB_Leipzig.svg' group-title='ThienDinhTV', 01:30 [Bundesliga] RB Leipzig vs Union Berlin (BLV Táo Tàu)
+https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg' group-title='ThienDinhTV', 01:45 [Serie A] Napoli vs Cremonese (BLV Táo Thiên Vương)
+https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/sco/7/77/Logo_Sunderland.svg' group-title='ThienDinhTV', 02:00 [Premier League] Sunderland vs Nottingham Forest (BLV Thần Thông)
+https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg' group-title='ThienDinhTV', 02:00 [La Liga] Real Betis vs Real Madrid (BLV Táo Mèo)
+https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/fr/1/13/Real_betis_logo.svg' group-title='ThienDinhTV', 02:00 [La Liga] Real Betis vs Real Madrid (BLV Ngọc Hoàng(A Cháo))
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
