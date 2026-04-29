@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/4217.png' group-title='ThienDinhTV', 21:00 [Super League] Neftchi vs Kokand-1912 (BLV Thần Thông)
-https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/3/39/Al-Riyadh_SC.svg' group-title='ThienDinhTV', 23:00 [Pro League] Al Riyadh vs Al-Qadisiyah FC (BLV Táo Mèo)
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2936.png' group-title='ThienDinhTV', 23:10 [Pro League] Al Taawon vs Al-Ittihad FC (BLV Táo Mèo)
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2939.png' group-title='ThienDinhTV', 01:00 [Pro League] Al-Nassr vs Al-Ahli Jeddah (BLV Táo Tỉnh Táo)
 https://tdlive.zlylive.com/live/tdtv_blv_taotinhtao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
