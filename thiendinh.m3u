@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/b/b4/Logo_H%C3%A0_N%E1%BB%99i_FC.png' group-title='ThienDinhTV', 19:15 [V.League 1] Ha Noi vs Da Nang (BLV Thần Thông)
-https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/515.png' group-title='ThienDinhTV', 20:00 [Serie B] Spezia vs Venezia (BLV Táo Tỉnh Táo)
 https://tdlive.zlylive.com/live/tdtv_blv_taotinhtao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/b/bf/FC_Andorra_logo_team.png' group-title='ThienDinhTV', 21:15 [Segunda División] FC Andorra vs Albacete (BLV Táo Kinh Tế)
