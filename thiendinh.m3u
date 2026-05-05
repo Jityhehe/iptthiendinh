@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://static.bongda24h.vn/Medias/original/2022/11/09/seoul-0911213928.png' group-title='ThienDinhTV', 17:00 [K League 1] FC Seoul vs FC Anyang (BLV Táo Tỉnh Táo)
-https://tdlive.zlylive.com/live/tdtv_blv_taotinhtao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2442.png' group-title='ThienDinhTV', 19:00 [Liga 1] Pusamania Borneo vs Persita (BLV Táo Kinh Tế)
+#EXTINF:-1 tvg-logo='https://static.bongda24h.vn/Medias/original/2022/11/09/seoul-0911213928.png' group-title='ThienDinhTV', 17:00 [K League 1] FC Seoul vs FC Anyang (BLV Táo Kinh Tế(A Tích))
 https://tdlive.zlylive.com/live/tdtv_blv_taokinhte/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2442.png' group-title='ThienDinhTV', 19:00 [Liga 1] Pusamania Borneo vs Persita (BLV Táo Tỉnh Táo)
+https://tdlive.zlylive.com/live/tdtv_blv_taotinhtao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/3478.png' group-title='ThienDinhTV', 21:00 [Indian Super League] Mumbai City vs East Bengal II (BLV Táo Thiên Vương)
 https://tdlive.zlylive.com/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/250px-Flag_of_Japan.svg.png' group-title='ThienDinhTV', 23:00 [AFC U17 Asian Cup] Japan U17 vs Qatar U17 (BLV Táo Mèo)
@@ -11,7 +11,7 @@ https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/12521.png' group-title='ThienDinhTV', 00:30 [AFC U17 Asian Cup] Tajikistan U17 vs Thailand U17 (BLV Táo Tỉnh Táo)
 https://tdlive.zlylive.com/live/tdtv_blv_taotinhtao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2928.png' group-title='ThienDinhTV', 01:00 [Pro League] Al Khaleej Saihat vs Al-Hilal Saudi FC (BLV Táo Kinh Tế)
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2928.png' group-title='ThienDinhTV', 01:00 [Pro League] Al Khaleej Saihat vs Al-Hilal Saudi FC (BLV Táo Kinh Tế(A Tích))
 https://tdlive.zlylive.com/live/tdtv_blv_taokinhte/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/5/53/Arsenal_FC.svg' group-title='ThienDinhTV', 02:00 [UEFA Champions League] Arsenal vs Atletico Madrid (BLV Ngọc Hoàng(A Cháo))
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -41,5 +41,5 @@ https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent
 https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/157.png' group-title='ThienDinhTV', 02:00 [UEFA Champions League] Bayern München vs Paris Saint Germain (BLV Thần Thông)
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/157.png' group-title='ThienDinhTV', 02:00 [UEFA Champions League] Bayern München vs Paris Saint Germain (BLV Táo Kinh Tế)
+#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/157.png' group-title='ThienDinhTV', 02:00 [UEFA Champions League] Bayern München vs Paris Saint Germain (BLV Táo Kinh Tế(A Tích))
 https://tdlive.zlylive.com/live/tdtv_blv_taokinhte/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
