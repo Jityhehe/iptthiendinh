@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/250px-Flag_of_Japan.svg.png' group-title='ThienDinhTV', 23:00 [AFC U17 Asian Cup] Japan U17 vs Qatar U17 (BLV Táo Mèo)
-https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Indonesia.png' group-title='ThienDinhTV', 23:30 [AFC U17 Asian Cup] Indonesia U17 vs China PR U17 (BLV Thần Thông)
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/12521.png' group-title='ThienDinhTV', 00:30 [AFC U17 Asian Cup] Tajikistan U17 vs Thailand U17 (BLV Táo Tỉnh Táo)
