@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpT12aHAUOIHMXo5zDCYG6YNxvMki9rMQ8CA&s' group-title='ThienDinhTV', 20:00 [Super League] Pdrm vs Penang (BLV Táo Kinh Tế(A Tích))
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taokinhte/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1575.png' group-title='ThienDinhTV', 21:00 [Premier League] El Mokawloon vs El Gouna FC (BLV Táo Tỉnh Táo)
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taotinhtao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1163.png' group-title='ThienDinhTV', 22:00 [Veikkausliiga] Ilves vs AC Oulu (BLV Thần Thông)
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/185.png' group-title='ThienDinhTV', 23:30 [2. Bundesliga] SC Paderborn 07 vs Karlsruher SC (BLV Táo Thiên Vương)
