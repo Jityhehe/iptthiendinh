@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/a/a7/Elche_CF_logo.svg' group-title='ThienDinhTV', 19:00 [La Liga] Elche vs Alaves (BLV Táo Kinh Tế(A Tích))
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taokinhte/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/172.png' group-title='ThienDinhTV', 20:30 [Bundesliga] VfB Stuttgart vs Bayer Leverkusen (BLV Táo Tỉnh Táo)
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taotinhtao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/51.png' group-title='ThienDinhTV', 21:00 [Premier League] Brighton vs Wolves (BLV Táo Mèo)
