@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/e/ed/SS_Lazio.png' group-title='ThienDinhTV', 23:00 [Serie A] Lazio vs Inter (BLV Táo Tỉnh Táo)
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taotinhtao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/1/1d/Manchester_City_FC_logo.svg' group-title='ThienDinhTV', 23:30 [Premier League] Manchester City vs Brentford (BLV Ngọc Hoàng(A Cháo))
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/en/f/f9/Atletico_Madrid_Logo_2024.svg' group-title='ThienDinhTV', 23:30 [La Liga] Atletico Madrid vs Celta Vigo (BLV Táo Thiên Vương)
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/161.png' group-title='ThienDinhTV', 23:30 [Bundesliga] VfL Wolfsburg vs Bayern München (BLV Táo Mèo)
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/1601.png' group-title='ThienDinhTV', 00:00 [Major League Soccer] Toronto FC vs Inter Miami (BLV Thần Thông)
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/thumb/0/05/Us_lecce.png/250px-Us_lecce.png' group-title='ThienDinhTV', 01:45 [Serie A] Lecce vs Juventus (BLV Táo Kinh Tế(A Tích))
