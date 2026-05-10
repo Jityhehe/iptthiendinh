@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/it/9/92/Hellas_Verona_FC_logo_%282020%29.svg' group-title='ThienDinhTV', 17:30 [Serie A] Hellas Verona vs Como (BLV Táo Tỉnh Táo)
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taotinhtao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/2/22/HLHT_FC.svg' group-title='ThienDinhTV', 18:00 [V.League 1] Hồng Lĩnh Hà Tĩnh vs Viettel (BLV Táo Mèo)
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://vectorseek.com/wp-content/uploads/2023/08/Rcd-Mallorca-Logo-Vector.svg-.png' group-title='ThienDinhTV', 19:00 [La Liga] Mallorca vs Villarreal (BLV Táo Kinh Tế(A Tích))
