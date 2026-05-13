@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/commons/d/df/FC_Dynamo_Kyiv_logo.svg' group-title='ThienDinhTV', 19:30 [Premier League] Dynamo Kyiv vs Kolos Kovalivka (BLV Táo Tỉnh Táo)
-https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/550.png' group-title='ThienDinhTV', 22:00 [Premier League] Shakhtar Donetsk vs Obolon'-Brovar (BLV Táo Mèo)
-https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://vcdn1-dulich.vnecdn.net/2018/01/25/Uzbekistan-9909-1516848403.png?w=680&h=0&q=100&dpr=2&fit=crop&s=tdzF4zH_kBQ4H9NlhvHzUA' group-title='ThienDinhTV', 23:00 [AFC U17 Asian Cup] Uzbekistan U17 vs Australia U17 (BLV Táo Thiên Vương)
 https://tdlive.yarncdn.live/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/f/fd/Rcd_espanyol_de_barcelona.gif' group-title='ThienDinhTV', 00:00 [La Liga] Espanyol vs Athletic Club (BLV Táo Tỉnh Táo)
