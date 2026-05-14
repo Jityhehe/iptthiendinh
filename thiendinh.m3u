@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo='https://media.api-sports.io/football/teams/2931.png' group-title='ThienDinhTV', 22:55 [Pro League] Al-Fateh vs Al Najma (BLV Táo Kinh Tế(A Tích))
-https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo='https://upload.wikimedia.org/wikipedia/vi/f/fe/Valenciacf.png' group-title='ThienDinhTV', 00:00 [La Liga] Valencia vs Rayo Vallecano (BLV Thần Thông)
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://www.pngmart.com/files/22/Girona-FC-PNG-HD.png' group-title='ThienDinhTV', 01:00 [La Liga] Girona vs Real Sociedad (BLV Táo Thiên Vương)
 https://tdlive.yarncdn.live/live/tdtv_blv_taothienvuong/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo='https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png' group-title='ThienDinhTV', 02:30 [La Liga] Real Madrid vs Oviedo (BLV Táo Mèo)
